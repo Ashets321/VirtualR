@@ -1,0 +1,3 @@
+Dentro de  la aplicacion las complicaciones que logre tener es para usar el google AR services ya que es para dispositivos nuevos
+ademas de que no podia mandar a llamar un dato tomando este como null reference el texto se arreglo importando algunas librerias
+pero el error persistia en el rawimage tomando este dato como null reference
